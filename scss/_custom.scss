@@ -124,12 +124,12 @@ textarea:-moz-placeholder {
             }
         }
         .slide1 {
-            background: url(../assets/img/hero01.png) no-repeat;
+            background: url(../assets/img/hero01.webp) no-repeat;
             background-size: cover;
             background-position: 20% 0%;
         }
         .slide2 {
-            background: url(../assets/img/hero02.png) no-repeat;
+            background: url(../assets/img/hero02.webp) no-repeat;
             background-size: cover;
             background-position: 0% 0%;
         }
@@ -424,7 +424,7 @@ textarea:-moz-placeholder {
 // About us section
 .about {
     padding: rem-calc(50) 0;
-    background: #eeefef url('../assets/img/beans.png') no-repeat;
+    background: #eeefef url('../assets/img/beans.webp') no-repeat;
     background-size: 90%;
     background-position: left rem-calc(-100) bottom rem-calc(-150);
     height: 100%;
@@ -716,7 +716,7 @@ textarea:-moz-placeholder {
 // Contact us section
 footer {
     padding: rem-calc(50) 0 0 0;
-    background: url('../assets/img/contact-bg.png') no-repeat;
+    background: url('../assets/img/contact-bg.webp') no-repeat;
     background-position: 60% 0%;
     background-size: cover;
     @include breakpoint(medium) {
